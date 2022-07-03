@@ -1,0 +1,38 @@
+.land{
+    min-height: 100vh;
+    background-color: pink;
+    caret-color: black;
+}
+
+.storename{
+    font-family: "Comic Sans MS", "Comic Sans", "cursive";
+    font-size: large;
+    color: rgb(37, 10, 10);
+    caret-color: transparent;
+    padding-top: 15px;
+}
+
+.name{
+    font-family: "Comic Sans MS", "Comic Sans", "cursive";
+    font-size: large;
+    color: rgb(10, 4, 4);
+    caret-color: transparent;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+.card{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    caret-color: transparent;
+    background-color: grey;
+  }
+
+  .addcart{
+    background-color: rgb(238, 116, 116);
+    color: white;
+    font-weight: bolder;
+    font-size: large;
+    font-family: "Comic Sans MS", "Comic Sans", "cursive";
+}

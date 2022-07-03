@@ -1,0 +1,58 @@
+.mainsection{
+    background-color: grey;
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.login-heading{
+    font-family: "Comic Sans MS", "Comic Sans", "cursive";
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    caret-color: transparent;
+}
+
+.form{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.form__input{
+    width: 50%;
+    height: 40px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.forgotPassword{
+    right: 10px;
+    color: black;
+    font-size: large;
+    background-color: grey;
+}
+
+.login-btn{ 
+    align-items: center;
+    color: black;
+    font-size: large;
+    background-color: grey;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 270px;
+}
+.login-btn1{ 
+    align-items: center;
+    font-size: large;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.common-para{
+    color: aliceblue;
+    padding-left: 30%;
+    padding-top: 3%;
+}

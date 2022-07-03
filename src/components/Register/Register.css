@@ -1,0 +1,53 @@
+.mainsection{
+    background-color: grey;
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    caret-color: transparent;
+    justify-content: center;
+}
+
+.login-heading{
+    font-family: "Comic Sans MS", "Comic Sans", "cursive";
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+}
+
+.bold-text{
+    font-family: "Comic Sans MS", "Comic Sans", "cursive";
+    font-size: large;
+    padding-left: 200px;
+    color: rgb(255, 255, 255);
+}
+
+.register-btn{ 
+    align-items: center;
+    color: black;
+    font-size: large;
+    background-color: grey;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 270px;
+}
+.register-btn1{ 
+    align-items: center;
+    font-size: large;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+
+.form{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.form__input{
+    width: 50%;
+    height: 40px;
+    padding: 10px;
+    border-radius: 10px;
+}

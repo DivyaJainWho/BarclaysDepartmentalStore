@@ -1,0 +1,33 @@
+
+.cart{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    caret-color: transparent;
+    background-color: rgb(235, 193, 200);
+    min-height: 90vh;
+  }
+
+  .count{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(245, 108, 131);
+  }
+
+  .render{
+    padding-top: 20px;
+  }
+
+  .head{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .back{
+    font-size: large;
+    font-weight: bolder;
+    font-family: "Comic Sans MS", "Comic Sans", "cursive";
+    color: black;
+  }
